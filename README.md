@@ -28,7 +28,8 @@
 
 
 ### Data Visualization
-![seaborn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/seaborn.svg)
+![seaborn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/seaborn_Library.svg)
+![matplotlib](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/matplotlib.svg)
 ### Statistics and Languages
 ## Github Profile Statistics
 
