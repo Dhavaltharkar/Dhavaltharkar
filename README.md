@@ -33,10 +33,7 @@
 ![GitHub Stats](https://github-readme-stats.demolab.com/?user=Dhavaltharkar&theme=radical&hide_border=true&data_format=j%20M%20Y)
 -->
 ### Languages Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavaltharkar&hide=jupyter notebook,python,sql,r,html,css%23,objective-c,ruby,scss,typescript,html,elixir,elm,java,jupyter%20notebook&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&disable_animations=true)](https://github.com/Dhavaltharkar)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavaltharkar&hide=jupyter%20notebook,python,sql,r,html,css%23,objective-c,ruby,scss,typescript,html,elixir,elm,java,jupyter%20notebook&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&disable_animations=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavaltharkar&hide=jupyter%20notebook,python,sql,r,html,css%23,objective-c,ruby,scss,typescript,html,elixir,elm,java,jupyter%20notebook&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&disable_animations=true)(https://github.com/Dhavaltharkar)
 
 
 
