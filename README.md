@@ -26,6 +26,9 @@
 ![Keras logo](https://camo.githubusercontent.com/6e04681d6c579df15af3ec1ec07d03ab2369756e14f64041157005dc12fe12b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b657261732d4430303030303f6c6f676f3d6b65726173266c6f676f436f6c6f723d7768697465)
 ![tensorflow logo](https://camo.githubusercontent.com/860cf2466b60fae30af8b3c148d87c5be3054d34dd517be94577c3b8890f4d1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f6c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465)
 
+
+### Data Visualization
+![seaborn logo](https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg)
 ### Statistics and Languages
 ## Github Profile Statistics
 
