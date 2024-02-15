@@ -8,12 +8,11 @@
 - 😄 Pronouns: Dhaval Tharkar
 
 ### Connect with Me :
-[![Gmail logo]
-(https://camo.githubusercontent.com/721b9591e505805fc962b81daa02ea04ec2c1b3a52883c965411577aa8909f3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](dhavaltharkar16@gmail.com)
+[![Gmail logo](https://camo.githubusercontent.com/721b9591e505805fc962b81daa02ea04ec2c1b3a52883c965411577aa8909f3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:dhavaltharkar16@gmail.com)
+
 [![LinkedIn](https://camo.githubusercontent.com/2bbb4ec74f9e4211f879b0a69daed0bcd3cb9407b33b575943b5721bc5b5cdc9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3065373661383f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/dhavaltharkar/)
 
 ## Languages and Tools:
-
 ### Programming Languages
 ![Python Logo](https://camo.githubusercontent.com/f2005838a94ff60b21efa51117fec1395810c3f20bc406488420d0519746e024/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
 
@@ -31,7 +30,8 @@
 
 
 Languages Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)](https://github.com/Dhavaltharkar)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=python,sql,ejs,go,astro,mdx,vue,c,css,scala,c%23,objective-c,ruby,scss,typescript,html,elixir,elm,java,jupyter%20notebook&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&disable_animations=true)](https://github.com/Dhavaltharkar)
+
 
 
 
