@@ -41,3 +41,5 @@
 [![Dhaval's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavaltharkar&layout=donut-vertical)](https://github.com/Dhavaltharkar/github-readme-stats)
 
 
+[![Dhaval's github activity graph](https://github-readme-activity-graph.vercel.app/graphusername°Dhavaltharkar&theme=dracula)]
+(https://github.com/Dhavaltharkar/github-readme-activity-graph)
