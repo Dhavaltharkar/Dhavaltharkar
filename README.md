@@ -1,4 +1,4 @@
-### Hello Everyone, Myself Dhaval Tharkar  👋
+### Hello Everyone, Myself Dhaval Tharkar(धवल थरकार) 👋
 
 ### About me
 - 🔭 I’m currently working on Data Analyst Projects
