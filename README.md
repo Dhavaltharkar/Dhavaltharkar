@@ -27,12 +27,16 @@
 ![tensorflow logo](https://camo.githubusercontent.com/860cf2466b60fae30af8b3c148d87c5be3054d34dd517be94577c3b8890f4d1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f6c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465)
 
 
+### Statistics and Languages
+## Github Profile Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhavaltharkar&theme=radical&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.demolab.com/?user=Dhavaltharkar&theme=radical&hide_border=true&data_format=j%20M%20Y)
 
 ### Languages Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=python,sql,ejs,go,astro,mdx,vue,c,css,scala,c%23,objective-c,ruby,scss,typescript,html,elixir,elm,java,jupyter%20notebook&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&disable_animations=true)](https://github.com/Dhavaltharkar)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhavaltharkar&theme=radical&show_icons=true&hide_border=true)
+
 
 
 
