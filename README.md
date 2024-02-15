@@ -30,7 +30,8 @@
 ### Statistics and Languages
 ## Github Profile Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhavaltharkar&theme=radical&show_icons=true&hide_border=true)
-![GitHub Stats]([https://github-readme-stats.demolab.com/?user=Dhavaltharkar&theme=radical&hide_border=true&data_format=j%20M%20Y](https://streak-stats.demolab.com/?user=Prakashdeveloper03&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D))
+![GitHub Stats](https://github-readme-stats.demolab.com/?user=Dhavaltharkar&theme=radical&hide_border=true&data_format=j%20M%20Y)
+
 
 ### Languages Stats
 
