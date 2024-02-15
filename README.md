@@ -9,7 +9,7 @@
 
 ### Connect with Me :
 [![Gmail logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/gmail.svg)](mailto:dhavaltharkar16@gmail.com)
-[![LinkedIn](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/linkedin.svg)(https://www.linkedin.com/in/dhavaltharkar/)
+[![LinkedIn](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/linkedin.svg)](https://www.linkedin.com/in/dhavaltharkar/)
 
 ## Languages and Tools:
 ### Programming Languages
