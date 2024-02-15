@@ -8,6 +8,9 @@
 - 😄 Pronouns: Dhaval Tharkar
 
 ### Connect with Me :
+[![Gmail logo]
+(https://camo.githubusercontent.com/721b9591e505805fc962b81daa02ea04ec2c1b3a52883c965411577aa8909f3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](dhavaltharkar16@gmail.com)
+[![LinkedIn](https://camo.githubusercontent.com/2bbb4ec74f9e4211f879b0a69daed0bcd3cb9407b33b575943b5721bc5b5cdc9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3065373661383f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/dhavaltharkar/)
 
 ## Languages and Tools:
 
@@ -27,7 +30,8 @@
 
 
 
-
+Languages Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)](https://github.com/Dhavaltharkar)
 
 
 
