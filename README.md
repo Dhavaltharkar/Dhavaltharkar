@@ -34,6 +34,9 @@
 ## Github Profile Statistics
 
 [![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhavaltharkar)](https://github.com/Dhavaltharkar/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dhavaltharkar&theme=default)](https://git.io/streak-stats))
 
 ### Languages Stats
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dhavaltharkar)](https://github.com/Dhaavaltharkar/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavaltharkar&layout=donut-vertical)](https://github.com/Dhavaltharkar/github-readme-stats)
