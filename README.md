@@ -42,3 +42,4 @@
 
 
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dhavaltharkar)](https://github.com/Dhaavaltharkar/github-readme-stats)
