@@ -15,6 +15,12 @@
 ### Programming Languages
 ![Python Logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/python.svg)
 
+
+### Platforms Used
+
+![Google Colab](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/colab.svg)
+
+
 ### Front End Development
 ![HTML logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/html.svg)
 ![css logo](https://camo.githubusercontent.com/be42970ac9080fd4bd30cdb8b4d3666cc713cc2571135533e65a7cc2e2d0ccae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536373732d4343363639393f6c6f676f3d53617373266c6f676f436f6c6f723d7768697465) 
