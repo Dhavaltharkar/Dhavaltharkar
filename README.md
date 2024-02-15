@@ -38,6 +38,7 @@
 ### Languages Stats
 [![Dhaval's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavaltharkar&layout=donut-vertical)](https://github.com/Dhavaltharkar/github-readme-stats)
 
-
+</--
 ### GitHub Contribution Graph
 [![Dhaval's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username°Dhavaltharkar&theme=dracula)](https://github.com/Dhavaltharkar/github-readme-activity-graph)
+-->
