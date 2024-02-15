@@ -34,7 +34,7 @@
 -->
 ### Languages Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashdeveloper03&hide=python,sql,ejs,go,astro,mdx,vue,c,css,scala,c%23,objective-c,ruby,scss,typescript,html,elixir,elm,java,jupyter%20notebook&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&disable_animations=true)](https://github.com/Dhavaltharkar)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavaltharkar&hide=jupyter notebook,python,sql,r,html,css%23,objective-c,ruby,scss,typescript,html,elixir,elm,java,jupyter%20notebook&langs_count=6&layout=compact&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&disable_animations=true)](https://github.com/Dhavaltharkar)
 
 
 
