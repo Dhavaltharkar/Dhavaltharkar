@@ -38,7 +38,7 @@
 -->
 
 
-[![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhavaltharkat)](https://github.com/Dhavaltharkar/github-readme-stats)
+[![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhavaltharkar)](https://github.com/Dhavaltharkar/github-readme-stats)
 
 
 
