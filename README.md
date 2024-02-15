@@ -30,12 +30,14 @@
 ### Data Visualization
 ![seaborn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/seaborn_Library.svg)
 ![matplotlib](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/matplotlib.svg)
-### Statistics and Languages
+### Statistics and Languages:
+
 ## Github Profile Statistics
 
-[![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhavaltharkar)](https://github.com/Dhavaltharkar/github-readme-stats) [![Dhaval's GitHub Streak](https://streak-stats.demolab.com/?user=Dhavaltharkar&theme=default)](https://git.io/streak-stats))
+[![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhavaltharkar)](https://github.com/Dhavaltharkar/github-readme-stats) [![Dhaval's GitHub Streak](https://streak-stats.demolab.com/?user=Dhavaltharkar&theme=default)](https://git.io/streak-stats)
 
 ### Languages Stats
+
 [![Dhaval's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavaltharkar&layout=donut-vertical)](https://github.com/Dhavaltharkar/github-readme-stats)
 
 
