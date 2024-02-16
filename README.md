@@ -14,19 +14,18 @@
 ## Languages and Tools:
 ### Programming Languages
 ![Python Logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/python.svg)
-![R logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/R.svg)
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/R.svg" alt="R Logo" width="59" height="20">
 
 
 ### Platforms Used
-![Google Colab](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/colab.svg)
-![Jupyter Notebook logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/jupyter.svg){ width=59px height=20px }
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg" alt="Spyder Logo" width="59" height="20">
-// ![spyder logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg){ width=59px height=20px }
-![RStudio logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/rstudio.svg){ width=59px height=20px }
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/colab.svg" alt="Google Colab Logo" width="59" height="20">
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/jupyter.svg" alt="Jupyter Notebook Logo" width="59" height="20">
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg" alt="Spyder Logo" width="59" height="20"> 
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/rstudio.svg" alt="RStudio Logo" width="59" height="20"> 
 
 ### Front End Development
 ![HTML logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/html.svg)
-![css logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/css.svg){ width=59px height=20px }
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/css.svg" alt="css Logo" width="59" height="20">
 
 ### Data Science and Machine Learning
 ![Numpy logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/numpy.svg)
@@ -34,15 +33,14 @@
 ![scikitlearn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/scikit.svg)
 ![Keras logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/keras.svg)
 ![tensorflow logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tensorflow.svg)
-![Flask logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/flask.svg)
-
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/flask.svg" alt="flask Logo" width="59" height="20">
 
 ### Data Visualization
 ![seaborn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/seaborn.svg)
 ![matplotlib](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/matplotlib.svg)
 
-// ### Dashboards
-// [![Tableau logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.svg)](https://public.tableau.com/app/profile/dhavaltharkar){ width=59px height=20px }
+### Dashboards
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.svg" alt="Tableau Logo" href = "https://public.tableau.com/app/profile/dhavaltharkar" width="59" height="20
 
 ### Workspace and Tools
 ![Windows logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/windows.svg)
