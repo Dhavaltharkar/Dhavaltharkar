@@ -10,6 +10,7 @@
 ### Connect with Me :
 [![Gmail logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/gmail.svg)](mailto:dhavaltharkar16@gmail.com)
 [![LinkedIn](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/linkedin.svg)](https://www.linkedin.com/in/dhavaltharkar/)
+<a href = "https://public.tableau.com/app/profile/dhavaltharkar"> Tableau Profile </a>
 
 ## Languages and Tools:
 ### Programming Languages
@@ -38,7 +39,7 @@
 ![matplotlib](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/matplotlib.svg)
 
 ### Dashboards
-[![Tableau Logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.svg)](https://public.tableau.com/app/profile/dhavaltharkar){ width=59 height=30 }
+![Tableau Logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.svg)
 
 ### Workspace and Tools
 ![Windows logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/windows.svg)
