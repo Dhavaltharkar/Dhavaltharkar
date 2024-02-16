@@ -20,7 +20,8 @@
 ### Platforms Used
 ![Google Colab](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/colab.svg)
 ![Jupyter Notebook logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/jupyter.svg){ width=59px height=20px }
-![spyder logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg){ width=59px height=20px }
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg" alt="Spyder Logo" width="59" height="20">
+// ![spyder logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg){ width=59px height=20px }
 ![RStudio logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/rstudio.svg){ width=59px height=20px }
 
 ### Front End Development
