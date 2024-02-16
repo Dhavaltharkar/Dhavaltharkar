@@ -55,10 +55,6 @@
 ### Statistics and Languages:
 
 ## Github Profile Statistics
-
-[![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhavaltharkar)](https://github.com/Dhavaltharkar/github-readme-stats) [![Dhaval's GitHub Streak](https://streak-stats.demolab.com/?user=Dhavaltharkar&theme=default)](https://git.io/streak-stats)
-
-## test
 [![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhavaltharkar)](https://github.com/Dhavaltharkar/github-readme-stats) [![Dhaval's GitHub Streak](https://streak-stats.demolab.com/?user=Dhavaltharkar&theme=default)](https://git.io/streak-stats)
 
 ### Languages Stats
