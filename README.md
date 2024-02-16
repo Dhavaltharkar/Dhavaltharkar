@@ -24,11 +24,11 @@
 
 ### Front End Development
 ![HTML logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/html.svg)
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/css.svg" alt="css Logo" width="59" height="30">
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/javascript.png" alt="javascript Logo" width="59" height="30">
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/css.svg" alt="css Logo" width="40" height="30">
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/javascript.png" alt="javascript Logo" width="40" height="30">
 
 ### Database
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/mysql.svg" alt="mysql Logo" width="59" height="20"><img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/sql.svg" alt="sql Logo" width="59" height="20">![mongodb](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/mongodb.svg)
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/mysql.svg" alt="mysql Logo" width="59" height="30"><img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/sql.svg" alt="sql Logo" width="59" height="30">![mongodb](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/mongodb.svg)
 
 
 ### Data Science and Machine Learning
