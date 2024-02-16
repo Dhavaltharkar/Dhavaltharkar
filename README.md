@@ -39,7 +39,8 @@
 ![matplotlib](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/matplotlib.svg)
 
 ### Dashboards
-![Tableau Logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.png)
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.png" alt="Tableau Logo" width="59" height="20">
+
 
 ### Workspace and Tools
 ![Windows logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/windows.svg)
