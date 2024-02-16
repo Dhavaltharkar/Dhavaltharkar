@@ -38,9 +38,7 @@
 ![matplotlib](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/matplotlib.svg)
 
 ### Dashboards
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.svg" alt="Tableau Logo" href = "https://public.tableau.com/app/profile/dhavaltharkar" width="59" height="20>
-
-[![Tableau Logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.svg)](https://public.tableau.com/app/profile/dhavaltharkar)
+[![Tableau Logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.svg)](https://public.tableau.com/app/profile/dhavaltharkar){ width=59 height=30 }
 
 ### Workspace and Tools
 ![Windows logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/windows.svg)
