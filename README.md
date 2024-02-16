@@ -8,34 +8,46 @@
 - 😄 Pronouns: Dhaval Tharkar
 
 ### Connect with Me :
-[![Gmail logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/gmail.svg)](mailto:dhavaltharkar16@gmail.com)
-[![LinkedIn](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/linkedin.svg)](https://www.linkedin.com/in/dhavaltharkar/)
+[![Gmail logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/gmail.svg)](mailto:dhavaltharkar16@gmail.com)
+[![LinkedIn](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/linkedin.svg)](https://www.linkedin.com/in/dhavaltharkar/)
 
 ## Languages and Tools:
 ### Programming Languages
-![Python Logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/python.svg)
+![Python Logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/python.svg)
+![R logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/R.svg)
 
 
 ### Platforms Used
-
-![Google Colab](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/colab.svg)
-
+![Google Colab](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/colab.svg)
+![Jupyter Notebook logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/jupyter.svg){ width=59px height=20px }
+![spyder logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg){ width=59px height=20px }
+![RStudio logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/rstudio.svg){ width=59px height=20px }
 
 ### Front End Development
-![HTML logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/html.svg)
-![css logo](https://camo.githubusercontent.com/be42970ac9080fd4bd30cdb8b4d3666cc713cc2571135533e65a7cc2e2d0ccae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536373732d4343363639393f6c6f676f3d53617373266c6f676f436f6c6f723d7768697465) 
+![HTML logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/html.svg)
+![css logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/css.svg){ width=59px height=20px }
 
 ### Data Science and Machine Learning
-![Numpy logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/numpy.svg)
-![pandas logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/pandas.svg)
-![scikitlearn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/scikit.svg)
-![Keras logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/keras.svg)
-![tensorflow logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/tensorflow.svg)
+![Numpy logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/numpy.svg)
+![pandas logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/pandas.svg)
+![scikitlearn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/scikit.svg)
+![Keras logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/keras.svg)
+![tensorflow logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tensorflow.svg)
+![Flask logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/flask.svg)
 
 
 ### Data Visualization
-![seaborn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/seaborn_Library.svg)
-![matplotlib](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/Assets/matplotlib.svg)
+![seaborn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/seaborn.svg)
+![matplotlib](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/matplotlib.svg)
+
+// ### Dashboards
+// [![Tableau logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.svg)](https://public.tableau.com/app/profile/dhavaltharkar){ width=59px height=20px }
+
+### Workspace and Tools
+![Windows logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/windows.svg)
+![Microsoft Edge logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/microsoftedge.svg)
+![sublinr text](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/subline.svg)
+
 ### Statistics and Languages:
 
 ## Github Profile Statistics
