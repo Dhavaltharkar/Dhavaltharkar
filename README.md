@@ -28,11 +28,6 @@
 <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/javascript.svg" alt="javascript Logo" width="59" height="20">
 
 ### Database
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/mysql.svg" alt="mysql Logo" width="59" height="20">
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/sql.svg" alt="sql Logo" width="59" height="20">
-![mongodb](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/mongodb.svg)
-
-### test
 <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/mysql.svg" alt="mysql Logo" width="59" height="20"><img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/sql.svg" alt="sql Logo" width="59" height="20">![mongodb](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/mongodb.svg)
 
 
