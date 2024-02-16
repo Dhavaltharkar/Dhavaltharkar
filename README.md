@@ -18,12 +18,6 @@
 
 
 ### Platforms Used
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/colab.svg" alt="Google Colab Logo" width="59" height="20">
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/jupyter.svg" alt="Jupyter Notebook Logo" width="59" height="20">
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg" alt="Spyder Logo" width="59" height="20"> 
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/rstudio.svg" alt="RStudio Logo" width="59" height="20"> 
-
-### test
 <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/colab.svg" alt="Google Colab Logo" width="59" height="20"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/jupyter.svg" alt="Jupyter Notebook Logo" width="59" height="20"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg" alt="Spyder Logo" width="59" height="20"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/rstudio.svg" alt="RStudio Logo" width="59" height="20">
 
 
@@ -45,6 +39,8 @@
 
 ### Dashboards
 <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.svg" alt="Tableau Logo" href = "https://public.tableau.com/app/profile/dhavaltharkar" width="59" height="20>
+
+[![Tableau Logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.svg)](https://public.tableau.com/app/profile/dhavaltharkar)
 
 ### Workspace and Tools
 ![Windows logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/windows.svg)
