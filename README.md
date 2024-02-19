@@ -41,10 +41,11 @@
 
 ### Data Visualization
 ![seaborn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/seaborn.svg)
-![matplotlib](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/matplotlib.svg)
+![matplotlib](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/matplotlib.svg) <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/plotly.png" alt="plotly logo" width="59" height="20">
+
 
 ### Dashboards
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.png" alt="Tableau Logo" width="59" height="20"> <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/plotly.png">
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.png" alt="Tableau Logo" width="59" height="20"> 
 
 
 ### Workspace and Tools
