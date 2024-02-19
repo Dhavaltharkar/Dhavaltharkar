@@ -15,11 +15,11 @@
 ## Languages and Tools:
 ### Programming Languages
 ![Python Logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/python.svg)
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/R.svg" alt="R Logo" width="59" height="20">
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/R.svg" alt="R Logo" width="59" height="30">
 
 
 ### Platforms Used
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/colab.svg" alt="Google Colab Logo" width="59" height="20"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/jupyter.svg" alt="Jupyter Notebook Logo" width="59" height="20"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg" alt="Spyder Logo" width="59" height="20"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/rstudio.svg" alt="RStudio Logo" width="59" height="20">
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/colab.svg" alt="Google Colab Logo" width="59" height="20"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/jupyter.svg" alt="Jupyter Notebook Logo" width="59" height="30"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg" alt="Spyder Logo" width="59" height="20"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/rstudio.svg" alt="RStudio Logo" width="59" height="30">
 
 
 ### Front End Development
@@ -37,7 +37,7 @@
 ![scikitlearn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/scikit.svg)
 ![Keras logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/keras.svg)
 ![tensorflow logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tensorflow.svg)
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/flask.svg" alt="flask Logo" width="59" height="20"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/textblob.png"alt="textblob" width="59", height="30"> <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/nlp.png" alt ="NLP" width="59" Height="30">
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/flask.svg" alt="flask Logo" width="59" height="20"> <img src= "https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/textblob.png" alt="textblob" width="59", height="30"> <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/nlp.png" alt ="NLP" width="59" Height="30">
 
 ### Data Visualization
 ![seaborn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/seaborn.svg)
