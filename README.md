@@ -19,7 +19,7 @@
 
 
 ### Platforms Used
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/colab.svg" alt="Google Colab Logo" width="59" height="20"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/jupyter.svg" alt="Jupyter Notebook Logo" width="59" height="30"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg" alt="Spyder Logo" width="59" height="20"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/rstudio.svg" alt="RStudio Logo" width="59" height="30">
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/colab.svg" alt="Google Colab Logo" width="59" height="30"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/jupyter.svg" alt="Jupyter Notebook Logo" width="59" height="30"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/spyder.svg" alt="Spyder Logo" width="59" height="30"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/rstudio.svg" alt="RStudio Logo" width="59" height="30">
 
 
 ### Front End Development
@@ -28,7 +28,7 @@
 <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/javascript.png" alt="javascript Logo" width="40" height="30">
 
 ### Database
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/mysql.svg" alt="mysql Logo" width="59" height="30"><img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/sql.svg" alt="sql Logo" width="59" height="30">![mongodb](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/mongodb.svg)
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/mysql.svg" alt="mysql Logo" width="50" height="30"><img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/sql.svg" alt="sql Logo" width="50" height="30">![mongodb](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/mongodb.svg)
 
 
 ### Data Science and Machine Learning
@@ -37,7 +37,7 @@
 ![scikitlearn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/scikit.svg)
 ![Keras logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/keras.svg)
 ![tensorflow logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tensorflow.svg)
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/flask.svg" alt="flask Logo" width="59" height="20"> <img src= "https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/textblob.png" alt="textblob" width="59" height="30"> <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/nlp.png" alt ="NLP" width="59" Height="30">
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/flask.svg" alt="flask Logo" width="59" height="30"> <img src= "https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/textblob.png" alt="textblob" width="50" height="30"> <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/nlp.png" alt ="NLP" width="50" Height="30">
 
 ### Data Visualization
 ![seaborn logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/seaborn.svg)
@@ -45,7 +45,7 @@
 
 
 ### Dashboards
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.png" alt="Tableau Logo" width="59" height="20"> 
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.png" alt="Tableau Logo" width="59" height="30"> 
 
 
 ### Workspace and Tools
