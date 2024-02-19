@@ -44,7 +44,7 @@
 ![matplotlib](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/matplotlib.svg)
 
 ### Dashboards
-<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.png" alt="Tableau Logo" width="59" height="20">
+<img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.png" alt="Tableau Logo" width="59" height="20"> <img src ="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/plotly.png">
 
 
 ### Workspace and Tools
