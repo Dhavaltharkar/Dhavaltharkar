@@ -60,11 +60,7 @@
 
 ### Languages Stats
 
-[![Dhaval's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavaltharkar&layout=donut-vertical)](https://github.com/Dhavaltharkar/github-readme-stats)
-
-# test 
-
-[![Dhaval's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavaltharkar&layout=donut-vertical&exclude_repo=JupyterNotebooks)](https://github.com/Dhavaltharkar/github-readme-stats)
+[![Dhaval's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavaltharkar&layout=donut-vertical&exclude_repo=JupyterNotebooks, hack)](https://github.com/Dhavaltharkar/github-readme-stats)
 
 
 ### GitHub Contribution Graph
