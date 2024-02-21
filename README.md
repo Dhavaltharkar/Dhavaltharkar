@@ -64,7 +64,7 @@
 
 
 test
-[![Dhaval's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavaltharkar&layout=donut-verticle&hide=jupyter%20notebook,hack)](https://github.com/Dhavaltharkar/github-readme-stats)
+[![Dhaval's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavaltharkar&layout=default&hide=jupyter%20notebook,hack)](https://github.com/Dhavaltharkar/github-readme-stats)
 
 ### GitHub Contribution Graph
 
