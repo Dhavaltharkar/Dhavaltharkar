@@ -9,7 +9,6 @@
 
 ### Connect with Me :
 [![Gmail logo](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/gmail.svg)](mailto:dhavaltharkar16@gmail.com)
-[![LinkedIn](https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/linkedin.svg)](https://www.linkedin.com/in/dhavaltharkar/)
 <a href = "https://public.tableau.com/app/profile/dhavaltharkar"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/tableau.png" alt="Tableau Logo" width="59" height="20"> </a> <a href = "https://www.kaggle.com/dhavaltharkar"> <img src="https://raw.githubusercontent.com/Dhavaltharkar/Dhavaltharkar/main/images/kaggle.png" alt="Kaggle Logo" width="59" height="20"> </a> 
 
 ## Languages and Tools:
